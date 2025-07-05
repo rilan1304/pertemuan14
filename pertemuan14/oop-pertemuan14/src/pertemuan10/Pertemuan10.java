@@ -6,7 +6,7 @@ package pertemuan10;
 
 /**
  *
- * @author Antonia Wunu
+ * @author Maria Apriliani Lanus
  * 
  */
 public class Pertemuan10 {
